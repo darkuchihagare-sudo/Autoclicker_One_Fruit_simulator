@@ -6,10 +6,10 @@ To use this script, you must have Python 3 installed.
 You will also need to install two Python libraries:
  pyautogui: For simulating mouse and keyboard actions.
  pynput: For listening for the hotkeys
+ 
 To install run this:
 pip install pyautogui pynput
 
-You can install them by running this command in your terminal:
 # How to use the script on Linux:
 1) save the file as "FileName.py"
 2) open terminal (on ubuntu: ctrl + alt + t)
