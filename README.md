@@ -8,8 +8,6 @@ To use this script, you'll need Python 3 installed on your computer. You also ne
 
 You can install them both with this single command in your terminal:
 
-Bash
-
 pip install pyautogui pynput
 
 # How to Use: 
