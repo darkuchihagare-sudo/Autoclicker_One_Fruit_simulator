@@ -1,7 +1,7 @@
 I created this code for the game "One fruit simulator" on Roblox.
 You can use it for every other game, it is still an autocliker.
 
-- Prerequisites:
+# Prerequisites:
 To use this script, you must have Python 3 installed.
 You will also need to install two Python libraries:
  pyautogui: For simulating mouse and keyboard actions.
@@ -10,7 +10,7 @@ To install run this:
 pip install pyautogui pynput
 
 You can install them by running this command in your terminal:
-- How to use the script on Linux:
+# How to use the script on Linux:
 1) save the file as "FileName.py"
 2) open terminal (on ubuntu: ctrl + alt + t)
 3) write python3 "FileName.py" / Example: python3 autocliker.py
