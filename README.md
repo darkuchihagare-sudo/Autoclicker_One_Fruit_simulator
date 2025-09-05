@@ -7,6 +7,7 @@ This script is a simple autoclicker that can be used in "One Fruit Simulator" or
 To use this script, you'll need Python 3 installed on your computer. You also need to install the two main libraries that make the script work: pyautogui for simulating clicks and keyboard presses, and pynput for listening for the hotkeys.
 
 You can install them both with this single command in your terminal:
+
 Bash
 
 pip install pyautogui pynput
